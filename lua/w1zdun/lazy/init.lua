@@ -9,6 +9,7 @@ return {
     "nvim-neotest/nvim-nio",
     "eandrju/cellular-automaton.nvim",
     "gpanders/editorconfig.nvim",
+    "tpope/vim-repeat",
     "ThePrimeagen/vim-be-good",
 }
 
